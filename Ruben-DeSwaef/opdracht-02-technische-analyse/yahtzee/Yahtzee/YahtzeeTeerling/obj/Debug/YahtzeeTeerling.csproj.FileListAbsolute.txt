@@ -1,0 +1,15 @@
+C:\Users\ruben_000\Dropbox\Documents\MTA\SoftwareEng\2-technischeanalyse\YahtzeeTeerling\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.exe.config
+C:\Users\ruben_000\Dropbox\Documents\MTA\SoftwareEng\2-technischeanalyse\YahtzeeTeerling\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.exe
+C:\Users\ruben_000\Dropbox\Documents\MTA\SoftwareEng\2-technischeanalyse\YahtzeeTeerling\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.pdb
+C:\Users\ruben_000\Dropbox\Documents\MTA\SoftwareEng\2-technischeanalyse\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.csprojResolveAssemblyReference.cache
+C:\Users\ruben_000\Dropbox\Documents\MTA\SoftwareEng\2-technischeanalyse\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.Properties.Resources.resources
+C:\Users\ruben_000\Dropbox\Documents\MTA\SoftwareEng\2-technischeanalyse\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.teerlingView.resources
+C:\Users\ruben_000\Dropbox\Documents\MTA\SoftwareEng\2-technischeanalyse\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.csproj.GenerateResource.Cache
+C:\Users\ruben_000\Dropbox\Documents\MTA\SoftwareEng\2-technischeanalyse\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.exe
+C:\Users\ruben_000\Dropbox\Documents\MTA\SoftwareEng\2-technischeanalyse\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.pdb
+C:\Users\ruben_000\Dropbox\Documents\MTA\SoftwareEng\2-technischeanalyse\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.yahtzeeView.resources
+C:\Users\ruben_000\Dropbox\Documents\MTA\SoftwareEng\2-technischeanalyse\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.GameView.resources
+C:\Users\ruben_000\Dropbox\Documents\MTA\SoftwareEng\2-technischeanalyse\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.scorebordView.resources
+C:\Users\ruben_000\Dropbox\Documents\MTA\SoftwareEng\kdg-software-engineering-2015-2016\Ruben-DeSwaef\opdracht-02-technische-analyse\yahtzee\Yahtzee\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.exe.config
+C:\Users\ruben_000\Dropbox\Documents\MTA\SoftwareEng\kdg-software-engineering-2015-2016\Ruben-DeSwaef\opdracht-02-technische-analyse\yahtzee\Yahtzee\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.exe
+C:\Users\ruben_000\Dropbox\Documents\MTA\SoftwareEng\kdg-software-engineering-2015-2016\Ruben-DeSwaef\opdracht-02-technische-analyse\yahtzee\Yahtzee\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.pdb
